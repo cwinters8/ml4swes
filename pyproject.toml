@@ -1,0 +1,12 @@
+[project]
+name = "ml4swes"
+version = "0.1.0"
+description = "Coursework for 'Machine Learning for Software Engineers'"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "seaborn>=0.13.2",
+]
